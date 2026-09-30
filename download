@@ -1,0 +1,12 @@
+# BankFocus data are licensed: never commit them
+*.xlsx
+
+# Generated results
+output/
+
+# R / OS files
+.Rhistory
+.RData
+.Rproj.user/
+.ipynb_checkpoints/
+.DS_Store
