@@ -1,5 +1,4 @@
 ################################################################################
-# Case Study 3 - Monetary Policy and Bank Lending, 2005-2023
 #
 # Part A: pass-through of the ECB policy rate to national lending rates (public ECB data in
 #         data/, always runs).
